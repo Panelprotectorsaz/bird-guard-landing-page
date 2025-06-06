@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Protect Your Solar Panels | Panel Protectors AZ</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white font-sans">
+
+  <!-- Header Section -->
+  <header class="text-center py-8">
+    <h1 class="text-4xl font-bold">Birds Nesting Under Your Solar Panels?</h1>
+    <p class="text-lg text-gray-400 mt-2">Protect your investment with our proven bird guard solutions for Arizona homes.</p>
+  </header>
+
+  <!-- Hero Image -->
+  <section class="flex justify-center">
+    <img src="your-bird-under-solar-image.jpg" alt="Birds nesting under solar panels" class="rounded-lg shadow-lg w-full max-w-4xl">
+  </section>
+
+  <!-- Call to Action -->
+  <section class="text-center mt-10 px-4">
+    <h2 class="text-2xl font-semibold">Stop Damage Before It Gets Worse</h2>
+    <p class="mt-4 text-gray-400">Tile roofs are especially vulnerable. Nesting birds cause mess, noise, and costly damage.</p>
+    <a href="#quote-form" class="inline-block mt-6 px-6 py-3 bg-yellow-500 text-black font-bold rounded-lg hover:bg-yellow-400 transition">Get a Free Estimate</a>
+  </section>
+
+  <!-- Why Us -->
+  <section class="mt-16 px-6 max-w-4xl mx-auto text-center">
+    <h3 class="text-xl font-bold mb-4">Why Choose Panel Protectors AZ?</h3>
+    <ul class="space-y-2 text-gray-300">
+      <li>✔️ Over 5 Years Experience in Solar & Roofing</li>
+      <li>✔️ 10-Year Warranty on Bird Guard Installations</li>
+      <li>✔️ Local, Family-Owned, and Trusted</li>
+    </ul>
+  </section>
+
+  <!-- Contact Form -->
+  <section id="quote-form" class="mt-16 px-6 max-w-xl mx-auto">
+    <h3 class="text-xl font-bold mb-4 text-center">Request Your Free Quote</h3>
+    <form class="space-y-4">
+      <input type="text" placeholder="Your Name" class="w-full px-4 py-2 rounded bg-gray-800 text-white border border-gray-700">
+      <input type="email" placeholder="Email" class="w-full px-4 py-2 rounded bg-gray-800 text-white border border-gray-700">
+      <input type="text" placeholder="Address or Zip Code" class="w-full px-4 py-2 rounded bg-gray-800 text-white border border-gray-700">
+      <textarea placeholder="Describe your issue..." class="w-full px-4 py-2 rounded bg-gray-800 text-white border border-gray-700"></textarea>
+      <button type="submit" class="w-full bg-yellow-500 text-black font-bold py-3 rounded hover:bg-yellow-400 transition">Submit</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer class="mt-16 text-center text-sm text-gray-600 py-4">
+    &copy; 2025 Panel Protectors AZ. All rights reserved.
+  </footer>
+
+</body>
+</html>
